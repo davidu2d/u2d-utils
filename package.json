@@ -1,6 +1,6 @@
 {
   "name": "u2d-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library with helpers",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
